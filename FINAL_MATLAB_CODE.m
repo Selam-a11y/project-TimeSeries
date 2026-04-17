@@ -3,7 +3,7 @@
 
 clear; clc;
 
-%% 1. Load Data (Replace with your dataset)
+%% 1. Load Data 
 % Expected variables: Pt (prices), dates (datetime)
 load('usd_inr_data.mat');
 
